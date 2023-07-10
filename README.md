@@ -29,4 +29,5 @@ Import the provided SQL file. The file is known as "bot.sql" located inside the 
 Browse the Simple ChatBot System in a browser. i.e."http://localhost/final-chatbot/bot.php".
 
 
-![image](https://github.com/OmniaEl-Sheikh/basic-chatbot-using-PHP-AJAX/assets/92062597/a14aa6b3-50b0-49ff-b1df-7d0ab115bd54)
+![image](https://github.com/OmniaEl-Sheikh/basic-chatbot-using-PHP-AJAX/assets/92062597/31abe15a-1bb5-4785-bc4e-76d40ec538b5)
+
