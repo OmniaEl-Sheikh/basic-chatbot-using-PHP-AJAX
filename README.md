@@ -2,7 +2,7 @@
 Chat bot using (PHP-AJAX-Database) eye diseases to predict the disease and display diseases and their causes and how to treat and prevent them
 
 Front-End
-
+=============================================================================================
 HTML5
 
 CSS
@@ -18,15 +18,15 @@ Bootstrap
 AdminLTE Template
 
 Back-End
-
+=============================================================================================
 PHP (version 8.0.2)
 
 MySQL Database
 
 
-
+=============================================================================================
 Requirements
-
+=============================================================================================
 Download and Install any local web server such as XAMPP/WAMP.
 
 Download the provided source code zip file.
