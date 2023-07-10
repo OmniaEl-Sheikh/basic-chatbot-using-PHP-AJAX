@@ -24,7 +24,7 @@ PHP (version 8.0.2)
 MySQL Database
 
 
-=============================================================================================
+
 Requirements
 =============================================================================================
 Download and Install any local web server such as XAMPP/WAMP.
@@ -32,6 +32,7 @@ Download and Install any local web server such as XAMPP/WAMP.
 Download the provided source code zip file.
 
 Installation/Setup
+=============================================================================================
 
 Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".
 
